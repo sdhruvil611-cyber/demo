@@ -7,20 +7,34 @@ The application is developed using Java, Java Swing, and MySQL database connecti
 Features
 
 User Registration and Login
+
 Add and Manage Customer Details
+
 View Tourist Packages
+
 Book Travel Packages
+
 Hotel Booking System
+
 Destination Information
+
 Payment Integration
+
 View Booked Details
+
 Update and Delete Customer Records
+
 Attractive GUI using Java Swing
+
 
 Technologies Used
 
 Programming Language: Java
+
 GUI Framework: Java Swing
+
 Database: MySQL
+
 IDE: NetBeans / Eclipse
+
 Connectivity: JDBC
