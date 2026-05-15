@@ -5,6 +5,7 @@ This project provides an easy-to-use graphical user interface for users and admi
 The application is developed using Java, Java Swing, and MySQL database connectivity.
 
 Features
+
 User Registration and Login
 Add and Manage Customer Details
 View Tourist Packages
@@ -17,6 +18,7 @@ Update and Delete Customer Records
 Attractive GUI using Java Swing
 
 Technologies Used
+
 Programming Language: Java
 GUI Framework: Java Swing
 Database: MySQL
